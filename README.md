@@ -7,4 +7,4 @@ Kloon het op je computer en `git pull` regelmatig om de laatste updates van je c
 
 
 
-Hi " ik beb Wameedh"
+Hi " ik ben Wameedh"
